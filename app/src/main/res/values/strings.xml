@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cataloge</string>
+    <string name="tab_text_1">Display</string>
+    <string name="tab_text_2">Information</string>
+    <string name="todo">TODO</string>
+    <string name="imagView">TODO</string>
+</resources>
